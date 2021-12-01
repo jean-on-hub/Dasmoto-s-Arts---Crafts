@@ -1,0 +1,48 @@
+.title {
+    background-image: url(image\ 1.webp);
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+.m_title {
+    background-color: mediumspringgreen;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+
+/* .b_type{
+
+} */
+
+
+/* .p1{
+    
+} */
+
+.interim_1 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue
+}
+
+.m_title1 {
+    background-color: lightcoral;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.m_title2 {
+    background-color: skyblue;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
